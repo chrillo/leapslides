@@ -1,0 +1,1 @@
+Small demo showcaseing the Leapmotion javascript SDK for presentation slides. 
